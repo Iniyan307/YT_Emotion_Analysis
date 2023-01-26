@@ -1,0 +1,6 @@
+Flask==1.1.2
+flask_mysqldb
+transformers
+nltk
+googleapiclient.discovery
+csv
