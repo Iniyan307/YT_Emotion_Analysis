@@ -2,5 +2,5 @@ Flask==1.1.2
 flask_mysqldb
 transformers
 nltk
-google-api-python-client
+google-api-python-client==2.74.0
 csv
