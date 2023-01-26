@@ -3,4 +3,4 @@ flask_mysqldb
 transformers
 nltk
 google-api-python-client==2.74.0
-csv
+python-csv
