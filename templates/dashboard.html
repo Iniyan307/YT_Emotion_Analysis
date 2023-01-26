@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/static/main.css">
+    <script src="/static/Login.js">  </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    
+    <title>Home</title>
+</head>
+
+<body>
+    <div class="master">
+        <nav>
+            <h2 class="logo"><i class="icon fab fa-youtube"></i> YouTube Sentiment Analysis</h2>
+            <ul>
+                <li><a class="active" href="{{url_for('dashboard')}}">Dashboard</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="{{url_for('home')}}">Sign out</a></li>
+            </ul>
+        </nav>
+
+        <div class="img-container">
+            <div class="gallery">
+            <h2>Sentiment Analysis</h2>
+                <a href="{{url_for('vader')}}">
+                    <img src="..\static\images\Sentiment1.png" width="300px" height="220px">
+                </a>
+                <div class="desc">
+                    <p>VADER Sentiment Analysis Tool</p>
+                    <p>Output : Sentiment Score </p>
+                    <p>Range : Positive to Negative</p>
+                </div>                
+            </div>
+
+            <div class="gallery">
+            <h2>Emotion Analysis</h2>
+                <a href="{{url_for('bert')}}">
+                    <img src="..\static\images\Emotion1.jpg"  width="300px" height="220px">
+                </a>
+                <div class="desc">
+                    <p>BERT NLP Model</p>
+                    <p>Output : Emotion </p>
+                    <p>Happy , Sad , Angry , confusion etc</p>
+                </div>
+            </div>
+        </div>
+
+<!--
+        <h1>Dashboard</h1>
+        <form action="/analyse" method="post" class="validation" id="validation" >
+
+                <div class="input-area">
+                    <p> Enter Video link : 
+                    <input type="text" name="Ytlink" id ="Ytlink" placeholder="https://www.youtube.com/watch?v=5WfTEZJnv_8">
+                    </p>
+                </div>
+
+                    <p> Sentiment Analysis Model : </p>
+                    <input type="radio" id="option" name="option" value="Vader">
+                        <label for="vader">BERT</label><br>
+                    <input type="radio" id="option" name="option" value="BERT">
+                        <label for="bert">BERT</label><br>
+
+                    <label> Sentiment Analysis Model : </label><br>
+                    <input type="radio" id="option" name="option" value="vader"/> Vader  <br>
+                    <input type="radio" id="option" name="option" value="bert"/> BERT <br/>
+                
+            <input type="submit" value="Analyse">
+        </form>
+
+
+
+        {% if prediction1 %}
+            <p class='text-center'> Sentiment : {{prediction1}} </p>
+        {% endif %}
+
+        {% if prediction2 %}
+            <p class='text-center'> Sentiment : {{prediction2}} </p>
+        {% endif %}
+
+
+        {{data}}-->
+
+
+</div>
+</body>
+
+</html>
