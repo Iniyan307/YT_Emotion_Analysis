@@ -123,4 +123,4 @@ def analyse():
     # return render_template('dashboard.html',prediction1=y)
     
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True,host="0.0.0.0",port=5000)
