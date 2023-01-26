@@ -1,4 +1,4 @@
-pip
+pip3
 Flask==2.1.0
 flask_mysqldb
 transformers
@@ -6,4 +6,4 @@ nltk
 google-api-python-client==2.74.0
 python-csv
 gunicorn
-torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cpu
+torch torchvision torchaudio
