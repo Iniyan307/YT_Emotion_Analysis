@@ -1,5 +1,5 @@
 # YT_Emotion_Analysis
-## The comments from given YouTube video is scraped 
+## Comments are scrapped From youtube :
 ## BERT Algorithm for emotion analysis.
 ## Uses Vader Framework for sentiment analysis 
 ## Output:
