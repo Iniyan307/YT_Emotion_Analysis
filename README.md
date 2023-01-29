@@ -1,5 +1,4 @@
 # YT_Emotion_Analysis
-# <br>
 ## BERT Algorithm and Vader Framework
 ### <br>
 ### Procedure:
