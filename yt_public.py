@@ -15,7 +15,7 @@ def main(Ytlink):
 
     api_service_name = "youtube"
     api_version = "v3"
-    DEVELOPER_KEY = "AIzaSyBbS2AdESPZI-1iBtsMkJrMFYiWhXmXXI0"
+    DEVELOPER_KEY = "#####"
 
     youtube = googleapiclient.discovery.build(
         api_service_name, api_version, developerKey = DEVELOPER_KEY)
