@@ -2,10 +2,10 @@
 ## BERT Algorithm and Vader Framework
 ### <br>
 ### Procedure:
-### 1 - Scrapping Youtube Comments
+### 1 - Scraping Youtube Comments
 ### 2 - Remove unwanted data (Pre-processing)
 ### 3 - Process the Comments using BERT or Vader Algorithm
-### 4 - Data visualization
+### 4 - Visualization of the result
 ### <br>
 ### Useful for individuals and businesses to analyse their viewer comments.
 ### Can be very valuable for brand insights.
