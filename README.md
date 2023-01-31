@@ -13,8 +13,8 @@
 ### - Output is presented in the form of visual reports consisting of charts and graphs
 ### <br>
 ## Output:
-### Scraping Youtube comments:
-![Alt text](/static/YT%20Emotion%20Analysis/Screenshot%202023-01-29%20171739.png)
+<!--### Scraping Youtube comments:
+![Alt text](/static/YT%20Emotion%20Analysis/Screenshot%202023-01-29%20171739.png) -->
 ### <br>
 ### Login Page:
 ![Alt text](/static/YT%20Emotion%20Analysis/Screenshot%202023-01-26%20183543.png)
