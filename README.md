@@ -7,10 +7,10 @@
 ### 3 - Process the Comments using **BERT** or **Vader** Algorithm
 ### 4 - Visualization of the result
 ### <br>
-### * Useful for individuals and businesses to analyse their viewer comments.
-### * Can be very valuable for brand insights.
-### * Natural language processing used to analyze opinions, feelings, and emotions.
-### * Output is presented in the form of visual reports consisting of charts and graphs
+### -Useful for individuals and businesses to analyse their viewer comments.
+### -Can be very valuable for brand insights.
+### -Natural language processing used to analyze opinions, feelings, and emotions.
+### -Output is presented in the form of visual reports consisting of charts and graphs
 ### <br>
 ## Output:
 ### Scraping Youtube comments:
