@@ -5,4 +5,4 @@ nltk
 google-api-python-client==2.74.0
 python-csv
 gunicorn
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
