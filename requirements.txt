@@ -5,3 +5,4 @@ nltk
 google-api-python-client==2.74.0
 python-csv
 gunicorn
+tensorflow
