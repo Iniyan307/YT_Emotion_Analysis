@@ -44,3 +44,10 @@
 ### <br>
 ### Vader ANALYSIS:
 ![Alt text](/static/YT%20Emotion%20Analysis/Screenshot%202023-01-29%20163944.png)
+
+### <br>
+## Results:
+###   - The performance of our classifiers by considering two datasets of tweets and we obtained a remarkable 92% accuracy for sentiment analysis and a 90% accuracy for emotion analysis, from which it was possible to deduce that BERT’s language modeling power significantly contributes to achieve a good text classification.
+###   -Experiments have shown that the models achieve an accuracy of 0.92 and 0.90 on, respectively, sentiment analysis and emotion recognition.
+
+
