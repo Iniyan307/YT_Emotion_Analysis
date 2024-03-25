@@ -1,6 +1,12 @@
 # YT_Emotion_Analysis
-## BERT Algorithm and Vader Framework
 ### <br>
+## TITLE: Product Emotion Analysis From Social Media
+### <br>
+## About:
+### To create a Product Emotion analysis tool using python and Machine learning for individual and organizations for analyzing their product from YouTube comments and tweets.
+### To give valuable insights on the brand and it’s product based on the sentiment/emotion of the product on social media.
+### To analyze the feelings and opinion of the people from data on social media and present the result in the form of graphs and charts for easy interpretation of the data.
+
 ### Procedure:
 ### 1 - Scraping Youtube Comments
 ### 2 - Remove unwanted data (Pre-processing)
