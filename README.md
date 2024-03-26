@@ -50,4 +50,6 @@
 ###   - The performance of our classifiers by considering two datasets of tweets and we obtained a remarkable 92% accuracy for sentiment analysis and a 90% accuracy for emotion analysis, from which it was possible to deduce that BERT’s language modeling power significantly contributes to achieve a good text classification.
 ###   -Experiments have shown that the models achieve an accuracy of 0.92 and 0.90 on, respectively, sentiment analysis and emotion recognition.
 
-
+## Articles published / References
+###  - Ritika Singh and Ayushka Tiwari, “YouTube Comment Sentiment analysis”, in IJSREM Volume: 05, Issue: 05, May – 2021.
+###  - Siti Khomsah, “Sentiment Analysis On YouTube Comments Using Word2Vec and RF”, in DOI: 10.31515/telematika.v18i1.4493, 2021, Pages 61-72.
