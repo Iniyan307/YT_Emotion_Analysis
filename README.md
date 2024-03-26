@@ -53,3 +53,4 @@
 ## Articles published / References
 ###  - Ritika Singh and Ayushka Tiwari, “YouTube Comment Sentiment analysis”, in IJSREM Volume: 05, Issue: 05, May – 2021.
 ###  - Siti Khomsah, “Sentiment Analysis On YouTube Comments Using Word2Vec and RF”, in DOI: 10.31515/telematika.v18i1.4493, 2021, Pages 61-72.
+###  - Mickel Hoang, Oskar Alija Bihorac, Jacobo Rouces, “Aspect-Based Sentiment Analysis Using BERT”, in 22nd Nordic Conference on Computational Linguistics, 2019, Pages 187-196.
