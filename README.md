@@ -1,6 +1,4 @@
-# YT_Emotion_Analysis
-### <br>
-## TITLE: Product Emotion Analysis From Social Media
+# TITLE: Product Emotion Analysis From Social Media
 ### <br>
 ## About:
 ###   Product Emotion analysis is a tool using Machine learning and Deep learning for individuals and organizations to analyze their product from YouTube comments. It gives valuable insights on the brand and it’s product based on the sentiment/emotion of the product on social media. It helps to analyze the feelings and opinion of the people from data on social media and present the result in the form of graphs and charts for easy interpretation of the data.
