@@ -6,7 +6,7 @@
 ### <br>
 ## Features:
 ###   - Real time data - Scrapes Youtube Comments
-###   - Uses **BERT** Algorithm
+###   - Uses fine-tuned **BERT** Algorithm
 ###   - Friendly User Interface
 ###   - Uses NLP to analyze opinions, feelings, and emotions.
 ###   - Visualization for easy interpretation of the result
